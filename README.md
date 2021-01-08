@@ -5,6 +5,7 @@ The results show KB-BERT performs with a 60% accuracy when it comes to sentiment
 
 
 Bert performing results from this paper
+![graph](https://github.com/mosh98/Swedish_Sentiment_BERTIL/blob/main/xxx.png)
 
 ### F1 score:  0.5711702412679611
 
@@ -14,5 +15,5 @@ Bert performing results from this paper
 
 
 You can find the paper here.
- 
+ ![mm](https://github.com/mosh98/Swedish_Sentiment_BERTIL/blob/main/Transformer_paper.pdf)
  
